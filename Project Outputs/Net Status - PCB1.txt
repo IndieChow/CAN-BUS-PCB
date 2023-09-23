@@ -1,0 +1,23 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\PCB_Intro_Project\PCB1.PcbDoc
+Date         : 9/23/2023
+Time         : 10:40:56 AM
+Time Elapsed : 00:00:01
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 769.68mils
+    5V, Signal Layers Only, 1862.748mils
+    GND, Signal Layers Only, 2130.756mils
+    NetC1_2, Signal Layers Only, 394.747mils
+    NetD1_1, Signal Layers Only, 1072.078mils
+    NetD1_2, Signal Layers Only, 174.232mils
+    NetD2_1, Signal Layers Only, 403.566mils
+    NetD2_2, Signal Layers Only, 383.018mils
+    NetP1_2, Signal Layers Only, 2070.103mils
+    NetP1_3, Signal Layers Only, 2307.885mils
+    NetP1_4, Signal Layers Only, 1568.685mils
+    NetR2_2, Signal Layers Only, 782.181mils
+    NetSW2_1, Signal Layers Only, 1917.879mils
+    NetU1_21, Signal Layers Only, 1825.789mils
+    NetU1_22, Signal Layers Only, 1515.381mils
+count : 15
